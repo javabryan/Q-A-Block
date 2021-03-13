@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "qa-block",
+	"title": "Q&A Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Q&A block for questions and responses.",
+	"textdomain": "qa-block",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///editor.scss"],"names":[],"mappings":"AAAA;EACE,uBAAuB;AACzB;;AAEA;EACE,oBAAoB;EACpB,eAAe;AACjB,C","file":"index.css","sourcesContent":[".qa-block {\n  border: 1px dotted #f00;\n}\n\n.qa-block input[type=text] {\n  font-family: Gilbert;\n  font-size: 64px;\n}"],"sourceRoot":""}
